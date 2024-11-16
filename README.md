@@ -14,33 +14,6 @@ React: For building the user interface.
 CSS: For styling components and adding interactivity.
 JavaScript: For application logic.
 
-## File Structure
-
-src/
-│
-├── components/
-│   ├── Navbar/
-│   │   └── Navbar.js
-|   |    |_Navbar.css
-│   ├── Sidebar/
-│   │   └── Sidebar.js
-|   |    |_Sidebar.css
-│   ├── Form/
-│   │   ├── Form.js
-│   │   └── Form.css
-│   ├── Notes/
-│   │   ├── Notes.js
-│   │   ├── Notes.css
-│   │   └── Note/
-│   │       ├── Note.js
-│   │       └── Note.css
-│   └── Modal/
-│       ├── Modal.js
-│       └── Modal.css
-│
-├── App.js
-└── index.js
-
 ## How to Run the App
 ### Prerequisites
 Node.js installed on your system.
